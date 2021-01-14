@@ -1,6 +1,6 @@
 # percolate:paginated-subscription
 
-This package is an experiment that adds pagination to Meteor's standard subscriptions. It's a byproduct of the [Telescope project](http://telesc.pe).
+This package is an experiment that adds pagination to Meteor's standard subscriptions. It's a byproduct of the [Telescope project](http://telesc.pe). Small fix for new meteor versions.
 
 ## Installation
 
@@ -8,7 +8,7 @@ Install via  [Meteorite](https://github.com/oortcloud/meteorite/):
 
 
 ``` sh
-$ meteor add percolate:paginated-subscription
+$ meteor add renanccastro:paginated-subscription
 ```
 
 ## Usage
